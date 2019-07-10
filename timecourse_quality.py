@@ -1,5 +1,5 @@
 import numpy as np
-from KB_python.statistical_analysis import error_estimation as ee
+import error_estimation as ee
 from dataset_operations import get_umbrella_data
 '''
     The scripts/functions in this module analyze the set of windows for umbrella sampling on an individual basis,
