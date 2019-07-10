@@ -1,0 +1,7 @@
+This folder contains analyses of umbrella sampling data for inter-dimer distances and cylinder-dimer angles
+
+The timecourse_quality.py file contains routines for estimating the data quality, using John Chodera's tool.
+
+The get_wham_prof.py file actually computes PMFS - see documentation at top of file.
+
+Some processed pickle files for angular PMFs are in  the processed_data folder
